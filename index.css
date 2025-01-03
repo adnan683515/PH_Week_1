@@ -1,0 +1,45 @@
+.box_1{
+
+
+    background-color: aqua;
+    width: 50%;
+    /* text-align: left; */
+    /* text-align: center; */
+    /* text-align: justify; */
+    /* padding-left: 10px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-top: 40px; */
+    padding: 20px;
+    background-image: url('totini.jpeg');
+    /* margin-bottom: 10px;
+    margin-left: 100px;
+    margin-top: 200px; */
+    margin: 10px;
+    box-shadow: 10px 10px 20px tomato;
+    border-radius: 10px;
+    
+    
+}
+.hed{
+    background-image: url('totini.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.box_2{
+    /* background-color: tomato; */
+    width: 50%;
+    /* display: none; */
+    /* display: inline-block; */
+    /* display: none; */
+    
+}
+
+.bd{
+    text-decoration: underline;
+    background-color: aqua;
+    border: 2px solid black;
+    /* display: none; */
+}
